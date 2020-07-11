@@ -1,16 +1,19 @@
-### Hi there 👋
+# Shreesha Sagar 👨‍💻
 
-<!--
-**sagarshreesha/sagarshreesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 Reach me:
+- [twitter.com/shreeshasagar](https://twitter.com/shreeshasagar)
+- [linkedin.com/in/shreesha-sagar](https://www.linkedin.com/in/shreesha-sagar)
 
-Here are some ideas to get you started:
+## Hi There👋,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm I am a 6th semester undergraduate majoring in Information Science & Engineering at RV College of Engineering.Actively working on projects. Main domains include Full Stack Web Development, Native App Development, DevOps.
+
+- 🔭 I’m currently working on DevOps and Data Science.
+- ⚡ Languages: JavaScript, Python, C++
+- 💬 Hobbies : Writing Tech Blogs and Tutorials
+
+## Projects
+
+- 🗃 [Tggr | Tag based file sharing](https://tggr.netlify.app)
+- 🎓 [Govt. PU College Ballari - Results](https://powerful-journey-50028.herokuapp.com/)
+- 🏫 [Tutr | Daily academic updates](https://imgur.com/gallery/fUMn6pn)
