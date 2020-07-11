@@ -6,7 +6,7 @@
 
 ## Hi There👋,
 
-I'm I am a 6th semester undergraduate majoring in Information Science & Engineering at RV College of Engineering. Actively working on projects. Main domains include Full Stack Web Development, Native App Development, DevOps.
+I am a 6th semester undergraduate majoring in Information Science & Engineering at RV College of Engineering. Actively working on projects. Main domains include Full Stack Web Development, Native App Development, DevOps.
 
 - 🔭 I’m currently working on DevOps and Data Science.
 - ⚡ Languages: JavaScript, Python, C++
