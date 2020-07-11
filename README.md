@@ -1,6 +1,6 @@
 # Shreesha Sagar 👨‍💻
 
-- 📫 Reach me:
+📫 Reach me @:
 - [twitter.com/shreeshasagar](https://twitter.com/shreeshasagar)
 - [linkedin.com/in/shreesha-sagar](https://www.linkedin.com/in/shreesha-sagar)
 
