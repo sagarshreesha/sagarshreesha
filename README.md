@@ -5,8 +5,7 @@
 - [twitter.com/shreeshasagar](https://twitter.com/shreeshasagar)
 - [linkedin.com/in/shreesha-sagar](https://www.linkedin.com/in/shreesha-sagar)
 
-🤵 [Portfolio Site](https://shreeshasagar.me)
-📄 [My Resume](https://firebasestorage.googleapis.com/v0/b/tutr-b2b58.appspot.com/o/Shreesha%20Sagar%20-%20RVCE.pdf?alt=media&token=312ee7a8-249e-4a9e-bce0-607adab3a564)
+🤵 [Portfolio Site](https://shreeshasagar.me<br/>📄 [My Resume](https://firebasestorage.googleapis.com/v0/b/tutr-b2b58.appspot.com/o/Shreesha%20Sagar%20-%20RVCE.pdf?alt=media&token=312ee7a8-249e-4a9e-bce0-607adab3a564)
 
 ## Hi There👋,
 
