@@ -5,7 +5,7 @@
 - [twitter.com/shreeshasagar](https://twitter.com/shreeshasagar)
 - [linkedin.com/in/shreesha-sagar](https://www.linkedin.com/in/shreesha-sagar)
 
-<br/>🤵 [Portfolio Site](https://shreeshasagar.me)<br/>📄 [My Resume](https://bit.ly/ShreeshaSagarRVCE)
+<br/>🤵 [Portfolio Site](https://shreeshasagar.in)<br/>📄 [My Resume](https://bit.ly/ShreeshaSagarRVCE)
 
 ## Hi There👋,
 
