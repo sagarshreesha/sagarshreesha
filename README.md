@@ -9,9 +9,9 @@
 
 ## Hi There👋,
 
-I am a 6th semester undergraduate majoring in Information Science & Engineering at RV College of Engineering. Actively working on projects. Main domains include Full Stack Web Development, Native App Development, DevOps.
+I am a Full Stack Engineer at Novartis. Actively working on projects. Main domains include Full Stack Web Development, Native App Development, DevOps.
 
-- 🔭 I’m currently working on DevOps and Data Science.
+- 🔭 I’m currently working on Full Stack Development and DevOps.
 - ⚡ Languages: JavaScript, Python, C++
 - 💬 Hobbies : Writing Tech Blogs and Tutorials
 
